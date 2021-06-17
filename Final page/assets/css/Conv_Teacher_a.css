@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Conv_Teacher_a';
+	src: url(../../assets/fonts/Teacher_a.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Teacher_a.woff) format('woff'),
+	url(../../assets/fonts/Teacher_a.ttf) format('truetype'),
+	url(../../assets/fonts/Teacher_a.svg) format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
