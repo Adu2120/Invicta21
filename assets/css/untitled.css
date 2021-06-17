@@ -1,0 +1,56 @@
+#promo {
+  text-align: center;
+  padding: 40px;
+  background-image: url(../../assets/img/hacking.jpg);
+  background-size: cover;
+}
+
+#welcome {
+  background-color: cyan;
+  opacity: 0.9;
+}
+
+@media (min-width: 300px) {
+  #promo {
+    padding: 20px;
+  }
+}
+
+#para {
+}
+
+#promo .jumbotron {
+  text-align: center;
+  padding: 40px;
+  opacity: 0.7;
+  max-width: 800px;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+
+@media (min-width: 300px) {
+  #promo .jumbotron {
+    padding: 20px;
+  }
+}
+
+#container {
+  text-align: center;
+}
+
+.site-section {
+  text-align: center;
+  padding: 60px 0;
+}
+
+body {
+  overflow-x: hidden;
+  font-family: Montserrat,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+#welcome p {
+  max-width: 800px;
+  font-size: 20px;
+  margin: 0 auto;
+}
+
